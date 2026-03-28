@@ -1,1 +1,1 @@
-# RTA_TG
+# Real-Time Analytics - Course Repository
